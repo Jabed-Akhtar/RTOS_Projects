@@ -4,8 +4,8 @@
     `ls /dev/tty*` -> enter this in terminal and esp32 port could look like /dev/ttyUSB0
   
  ## downloading esf-idf from github
-    * dowload/clone repository from 'espressif/esp-idf' -- link: https://github.com/espressif/esp-idf.git
+   * dowload/clone repository from 'espressif/esp-idf' -- link: https://github.com/espressif/esp-idf.git
   
  ## testing with included hello_world example
-    * copy hello world example to your project folder
-    * build....
+   * copy hello world example to your project folder
+   * build....
