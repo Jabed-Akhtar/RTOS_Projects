@@ -1,4 +1,8 @@
-# Setting up esp-idf for ESP32
+# Useful links:
+> - FreeRTOS: https://www.freertos.org/
+
+# ESP32-Project
+**Setting up esp-idf for ESP32**
 
 ## checking whether ESP32 device is connected or not
    `ls /dev/tty*` -> enter this in terminal and esp32 port could look like /dev/ttyUSB0
